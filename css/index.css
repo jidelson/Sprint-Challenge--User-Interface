@@ -323,18 +323,21 @@ line-height: 30px;
 max-width: 100%
 font-weight: bold;
 
+
 }
 
 .strategy{
     border-bottom: 1px dashed black;
     width: 49%;
     font-weight: bold;
+    margin-bottom: 3%;
 }
 
 .how {
     border-bottom: 1px dashed black;
     width: 49%;
     font-weight: bold;
+    margin-bottom: 3%;
 }
 
 .places {
@@ -363,7 +366,7 @@ font-weight: bold;
 
 .work {
     line-height: 30px;
-    padding: 5%;
+    padding: 5% 5% 5% 0%;
     font-weight: bold;
 }
 
