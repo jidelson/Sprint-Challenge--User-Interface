@@ -69,6 +69,7 @@ p {
 .container {
     width: 800px;
     margin: 0 auto;
+    font-weight: bold;
 }
 
 .top-content {
@@ -144,3 +145,234 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.navigation {
+    text-align: center;
+    word-spacing: 80px;
+    font-weight: bold;
+}
+
+.image1 {
+    margin: 2% 26%;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    max-height: 100%;
+    max-width: 100%;
+    justify-content: space-around;
+}
+
+.box1 {
+    background-color: teal;
+    color: white;
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    padding: 5% 4% 4% 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.box2 {
+    background-color: gold;
+    color: white;
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    padding: 5% 4% 4% 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.box3 {
+    background-color:cadetblue;
+    color: white;
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    padding: 5% 4% 4% 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.box4 {
+    background-color:coral;
+    color: white;
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    padding: 5% 4% 4% 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.box5 {
+    background-color:crimson;
+    color: white;
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    padding: 5% 4% 4% 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.box6 {
+    background-color: forestgreen;
+    color: white;
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    padding: 5% 4% 4% 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.box7 {
+    background-color:darkorchid;
+    color: white;
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    padding: 5% 4% 4% 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+
+.box8 {
+    background-color: hotpink;
+    color: white;
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    padding: 5% 4% 4% 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.box9 {
+    background-color: indigo;
+    color: white;
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    padding: 5% 4% 4% 4%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+
+.box10 {
+    background-color: dodgerblue;
+    color: white;
+    width: 13%;
+    height: 100px;
+    text-align: center;
+    padding: 5% 3% 3% 3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+h6 {
+    
+    text-align: center;
+}
+
+.image2 {
+    margin: 2% 26%;
+}
+
+.p1 {
+    line-height: 30px;
+    border-bottom: 1px dashed black;
+    margin: 3% 0% 3% 0%;
+    padding-bottom: 3%;
+    font-weight: bold;
+}
+
+.mainContent {
+    display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-between;
+line-height: 30px;
+max-width: 100%
+font-weight: bold;
+
+}
+
+.strategy{
+    border-bottom: 1px dashed black;
+    width: 49%;
+    font-weight: bold;
+}
+
+.how {
+    border-bottom: 1px dashed black;
+    width: 49%;
+    font-weight: bold;
+}
+
+.places {
+    border-bottom: 1px dashed black;
+    width: 49%;  
+    font-weight: bold;
+}
+
+.collab {
+    border-bottom: 1px dashed black;
+    width: 49%;  
+    font-weight: bold;
+}
+
+.learn {
+    color: black;
+    border: 2px solid black;
+    width:35%;
+    text-align: center;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    margin: 5% 0% 5% 0%;
+    font-weight: bold;
+}
+
+.work {
+    line-height: 30px;
+    padding: 5%;
+    font-weight: bold;
+}
+
+/*button {
+    background-color:;
+    border: round;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 10px;
+  }*/
